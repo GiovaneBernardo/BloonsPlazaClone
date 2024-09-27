@@ -1,0 +1,9 @@
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Binaries\BloonsGame.dll
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Binaries\BloonsGame.pdb
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Binaries\PlazaScriptCore.dll
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Binaries\PlazaScriptCore.pdb
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Intermediates\Release\BloonsGame.csproj.AssemblyReference.cache
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Intermediates\Release\BloonsGame.csproj.CoreCompileInputs.cache
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Intermediates\Release\BloonsGame.csproj.Up2Date
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Intermediates\Release\BloonsGame.dll
+C:\Users\Giovane\Desktop\Workspace\PlazaGames\BloonsGame\Intermediates\Release\BloonsGame.pdb

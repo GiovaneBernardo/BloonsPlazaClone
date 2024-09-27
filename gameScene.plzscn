@@ -1,0 +1,701 @@
+{
+    "value0": {
+        "mAssetUuid": 18051330041662162522,
+        "mAssetName": "gameScene.plzscn",
+        "entities": [
+            {
+                "key": 17364832368215807507,
+                "value": {
+                    "uuid": 17364832368215807507,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "EnemyInstantiable"
+                }
+            },
+            {
+                "key": 15413085292107371197,
+                "value": {
+                    "uuid": 15413085292107371197,
+                    "parentUuid": 11003027617651320982,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 819475862790895276,
+                "value": {
+                    "uuid": 819475862790895276,
+                    "parentUuid": 14829735431805717965,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        8529524879018068648,
+                        987508277979034470,
+                        7444737124437655424,
+                        8987870875583992926,
+                        7070951639830191495,
+                        17364832368215807507,
+                        11003027617651320982,
+                        12609759229783729558,
+                        12408642813575990424
+                    ],
+                    "name": "Scene"
+                }
+            },
+            {
+                "key": 987508277979034470,
+                "value": {
+                    "uuid": 987508277979034470,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Ball"
+                }
+            },
+            {
+                "key": 7444737124437655424,
+                "value": {
+                    "uuid": 7444737124437655424,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "CameraEntity"
+                }
+            },
+            {
+                "key": 8987870875583992926,
+                "value": {
+                    "uuid": 8987870875583992926,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        3760835249543565243
+                    ],
+                    "name": "mageTower"
+                }
+            },
+            {
+                "key": 8529524879018068648,
+                "value": {
+                    "uuid": 8529524879018068648,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 3760835249543565243,
+                "value": {
+                    "uuid": 3760835249543565243,
+                    "parentUuid": 8987870875583992926,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 7070951639830191495,
+                "value": {
+                    "uuid": 7070951639830191495,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "EnemiesManager"
+                }
+            },
+            {
+                "key": 11003027617651320982,
+                "value": {
+                    "uuid": 11003027617651320982,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        15413085292107371197
+                    ],
+                    "name": "archerTower"
+                }
+            },
+            {
+                "key": 12609759229783729558,
+                "value": {
+                    "uuid": 12609759229783729558,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        16288856464130125728
+                    ],
+                    "name": "cannonTower"
+                }
+            },
+            {
+                "key": 16288856464130125728,
+                "value": {
+                    "uuid": 16288856464130125728,
+                    "parentUuid": 12609759229783729558,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 12408642813575990424,
+                "value": {
+                    "uuid": 12408642813575990424,
+                    "parentUuid": 819475862790895276,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "RangePreview"
+                }
+            }
+        ],
+        "transformComponents": [
+            {
+                "key": 819475862790895276,
+                "value": {
+                    "value0": {
+                        "mUuid": 819475862790895276
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 15413085292107371197,
+                "value": {
+                    "value0": {
+                        "mUuid": 15413085292107371197
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.7071067094802856,
+                        "value1": -0.7071068286895752,
+                        "value2": -0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 100.0,
+                        "value1": 99.99999237060547,
+                        "value2": 99.99999237060547
+                    }
+                }
+            },
+            {
+                "key": 17364832368215807507,
+                "value": {
+                    "value0": {
+                        "mUuid": 17364832368215807507
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 5.64588737487793,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 3.0,
+                        "value1": 3.0,
+                        "value2": 3.0
+                    }
+                }
+            },
+            {
+                "key": 987508277979034470,
+                "value": {
+                    "value0": {
+                        "mUuid": 987508277979034470
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 29.09617042541504,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 7444737124437655424,
+                "value": {
+                    "value0": {
+                        "mUuid": 7444737124437655424
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 211.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.8660253882408142,
+                        "value1": 0.5,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 8987870875583992926,
+                "value": {
+                    "value0": {
+                        "mUuid": 8987870875583992926
+                    },
+                    "relativePosition": {
+                        "value0": -1000.0,
+                        "value1": -98.4000015258789,
+                        "value2": -1000.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 0.019999999552965165,
+                        "value1": 0.019999999552965165,
+                        "value2": 0.019999999552965165
+                    }
+                }
+            },
+            {
+                "key": 8529524879018068648,
+                "value": {
+                    "value0": {
+                        "mUuid": 8529524879018068648
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": -1.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1024.0,
+                        "value1": 1.0,
+                        "value2": 1024.0
+                    }
+                }
+            },
+            {
+                "key": 3760835249543565243,
+                "value": {
+                    "value0": {
+                        "mUuid": 3760835249543565243
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.7071067094802856,
+                        "value1": -0.7071068286895752,
+                        "value2": -0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 100.0,
+                        "value1": 99.99999237060547,
+                        "value2": 99.99999237060547
+                    }
+                }
+            },
+            {
+                "key": 7070951639830191495,
+                "value": {
+                    "value0": {
+                        "mUuid": 7070951639830191495
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 11003027617651320982,
+                "value": {
+                    "value0": {
+                        "mUuid": 11003027617651320982
+                    },
+                    "relativePosition": {
+                        "value0": -1000.0,
+                        "value1": -98.4000015258789,
+                        "value2": -1000.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 0.019999999552965165,
+                        "value1": 0.019999999552965165,
+                        "value2": 0.019999999552965165
+                    }
+                }
+            },
+            {
+                "key": 12609759229783729558,
+                "value": {
+                    "value0": {
+                        "mUuid": 12609759229783729558
+                    },
+                    "relativePosition": {
+                        "value0": -1000.0,
+                        "value1": -98.4000015258789,
+                        "value2": -1000.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 0.019999999552965165,
+                        "value1": 0.019999999552965165,
+                        "value2": 0.019999999552965165
+                    }
+                }
+            },
+            {
+                "key": 16288856464130125728,
+                "value": {
+                    "value0": {
+                        "mUuid": 16288856464130125728
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.7071067094802856,
+                        "value1": -0.7071068286895752,
+                        "value2": -0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 100.0,
+                        "value1": 99.99999237060547,
+                        "value2": 99.99999237060547
+                    }
+                }
+            },
+            {
+                "key": 12408642813575990424,
+                "value": {
+                    "value0": {
+                        "mUuid": 12408642813575990424
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            }
+        ],
+        "cameraComponents": [
+            {
+                "key": 7444737124437655424,
+                "value": {
+                    "value0": {
+                        "mUuid": 7444737124437655424
+                    },
+                    "isEditorCamera": false,
+                    "Position": {
+                        "value0": 0.0,
+                        "value1": 211.0,
+                        "value2": 0.0
+                    },
+                    "Front": {
+                        "value0": 0.0,
+                        "value1": -0.8660253882408142,
+                        "value2": 0.5
+                    },
+                    "Up": {
+                        "value0": 0.0,
+                        "value1": 0.5,
+                        "value2": 0.8660253882408142
+                    },
+                    "Right": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "WorldUp": {
+                        "value0": 0.0,
+                        "value1": 1.0,
+                        "value2": 0.0
+                    },
+                    "Yaw": -90.0,
+                    "Pitch": 0.0,
+                    "MovementSpeed": 2.5,
+                    "MovementSpeedTemporaryBoost": -431602080.0,
+                    "MouseSensitivity": 0.10000000149011612,
+                    "Zoom": 60.0,
+                    "nearPlane": 0.009999999776482582,
+                    "farPlane": 15000.0,
+                    "aspectRatio": 1.0
+                }
+            }
+        ],
+        "meshRendererComponents": [
+            {
+                "key": 8529524879018068648,
+                "value": {
+                    "value0": {
+                        "mUuid": 8529524879018068648
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 1,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 17364832368215807507,
+                "value": {
+                    "value0": {
+                        "mUuid": 17364832368215807507
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 2,
+                    "mMaterialsUuids": [
+                        14391449409915332585
+                    ]
+                }
+            },
+            {
+                "key": 987508277979034470,
+                "value": {
+                    "value0": {
+                        "mUuid": 987508277979034470
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 2,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 15413085292107371197,
+                "value": {
+                    "value0": {
+                        "mUuid": 15413085292107371197
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 10082980967873112115,
+                    "mMaterialsUuids": [
+                        15001340595156881137
+                    ]
+                }
+            },
+            {
+                "key": 3760835249543565243,
+                "value": {
+                    "value0": {
+                        "mUuid": 3760835249543565243
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 10082980967873112115,
+                    "mMaterialsUuids": [
+                        16051878247346741115
+                    ]
+                }
+            },
+            {
+                "key": 16288856464130125728,
+                "value": {
+                    "value0": {
+                        "mUuid": 16288856464130125728
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 10082980967873112115,
+                    "mMaterialsUuids": [
+                        16051878247346741115
+                    ]
+                }
+            },
+            {
+                "key": 12408642813575990424,
+                "value": {
+                    "value0": {
+                        "mUuid": 12408642813575990424
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 2,
+                    "mMaterialsUuids": [
+                        15001340595156881137
+                    ]
+                }
+            }
+        ],
+        "rigidBodyComponents": [],
+        "colliderComponents": [
+            {
+                "key": 8529524879018068648,
+                "value": {
+                    "value0": {
+                        "mUuid": 8529524879018068648
+                    },
+                    "value1": false,
+                    "value2": [
+                        {
+                            "ptr_wrapper": {
+                                "id": 2147483649,
+                                "data": {
+                                    "mEnum": 0,
+                                    "mMeshUuid": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "key": 987508277979034470,
+                "value": {
+                    "value0": {
+                        "mUuid": 987508277979034470
+                    },
+                    "value1": false,
+                    "value2": [
+                        {
+                            "ptr_wrapper": {
+                                "id": 2147483650,
+                                "data": {
+                                    "mEnum": 1,
+                                    "mMeshUuid": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "csScriptComponents": [
+            {
+                "key": 7444737124437655424,
+                "value": {
+                    "value0": {
+                        "mUuid": 7444737124437655424
+                    },
+                    "scriptPath": "C:\\Users\\Giovane\\Desktop\\Workspace\\PlazaGames\\BloonsGame\\Assets\\Scripts\\CameraScript.cs",
+                    "mScriptUuid": 3035264730186030213
+                }
+            },
+            {
+                "key": 8529524879018068648,
+                "value": {
+                    "value0": {
+                        "mUuid": 8529524879018068648
+                    },
+                    "scriptPath": "C:\\Users\\Giovane\\Desktop\\Workspace\\PlazaGames\\BloonsGame\\Assets\\Scripts\\TowersManager.cs",
+                    "mScriptUuid": 17507887212352857474
+                }
+            },
+            {
+                "key": 7070951639830191495,
+                "value": {
+                    "value0": {
+                        "mUuid": 7070951639830191495
+                    },
+                    "scriptPath": "C:\\Users\\Giovane\\Desktop\\Workspace\\PlazaGames\\BloonsGame\\Assets\\Scripts\\EnemiesManager.cs",
+                    "mScriptUuid": 9613903714101404754
+                }
+            }
+        ],
+        "UITextRendererComponents": [],
+        "audioSourceComponents": [],
+        "audioListenerComponents": [],
+        "lightComponents": [],
+        "characterControllerComponents": [],
+        "animationComponentComponents": [],
+        "mainSceneEntityUuid": 819475862790895276
+    }
+}
